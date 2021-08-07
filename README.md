@@ -7,7 +7,7 @@ Hello My FearlesSs THE
     <a href="https://discord.com/users/717376815848620072" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/717376815848620072"></a>
 </div>
 
-## ⚡ Contact
+## ⚡ Support
 
 <div align="center">
     <a href="https://discord.com/users/717376815848620072" target="_blank"><img src="https://shields.io/badge/FearlesSs-111111.svg?&style=for-the-badge&logo=discord"></a>
@@ -15,7 +15,7 @@ Hello My FearlesSs THE
     <a href="https://discord.gg/fearless" target="_blank"><img src="https://shields.io/badge/Discord Server-111111.svg?&style=for-the-badge"></a>
 </div>
 
-## 💻 Technologies I Use
+## Yazılım dilleri
 
 <div align="center">
     <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
