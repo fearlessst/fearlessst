@@ -12,7 +12,7 @@ Hello My FearlesSs THE
 <div align="center">
     <a href="https://discord.com/users/717376815848620072" target="_blank"><img src="https://shields.io/badge/FearlesSs-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a href="https://github.com/fearlessst" target="_blank"><img src="https://shields.io/badge/FearlesSs-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://discord.gg/fearless" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
+    <a href="https://discord.gg/fearless" target="_blank"><img src="https://shields.io/badge/Discord Server-111111.svg?&style=for-the-badge"></a>
 </div>
 
 ## 💻 Technologies I Use
