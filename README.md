@@ -1,4 +1,4 @@
-# Hi there , I'm FearlesSs THE <img src="https://komarev.com/ghpvc/?username=Jaylen-ozi&color=00ff54"/>
+# Hi there , I'm FearlesSs <img src="https://komarev.com/ghpvc/?username=fearlessst&color=00ff54"/>
 
 
 <div align="center">
@@ -30,4 +30,3 @@
     <img src="https://github-profile-trophy.vercel.app/?username=fearlessst&theme=radical" />
     <img src="https://activity-graph.herokuapp.com/graph?username=fearlessst&bg_color=141321&color=FF9DD9&line=FF9DD9&point=9dffc3" />
 </p>
-![visits](https://komarev.com/ghpvc/?username=fearlessst)
