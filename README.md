@@ -11,8 +11,8 @@
     <a href="https://discord.com/users/717376815848620072" target="_blank"><img src="https://shields.io/badge/FearlesSs-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a href="https://github.com/fearlessst" target="_blank"><img src="https://shields.io/badge/FearlesSs-111111.svg?&style=for-the-badge&logo=github"></a>
     <a href="https://discord.gg/fearless" target="_blank"><img src="https://shields.io/badge/Discord Server-111111.svg?&style=for-the-badge"></a>
+    <a href="" target="_blank"><img src="https://shields.io/badge/ᛠ FearlesSs THE#5935-111111.svg?&style=for-the-badge&logo=discord">
 </div>
-       Discord Hesabım: `ᛠ FearlesSs THE#5935`
 ## Yazılım dilleri
 
 <div align="center">
