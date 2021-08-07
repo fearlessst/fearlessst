@@ -5,14 +5,6 @@
     <a href="https://discord.com/users/717376815848620072" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/717376815848620072"></a>
 </div>
 
-## ⚡ Support
-
-<div align="center">
-    <a href="https://discord.com/users/717376815848620072" target="_blank"><img src="https://shields.io/badge/FearlesSs-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a href="https://github.com/fearlessst" target="_blank"><img src="https://shields.io/badge/FearlesSs-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://discord.gg/fearless" target="_blank"><img src="https://shields.io/badge/Discord Server-111111.svg?&style=for-the-badge"></a>
-    <a href="" target="_blank"><img src="https://shields.io/badge/ᛠ FearlesSs THE#5935-111111.svg?&style=for-the-badge&logo=discord">
-</div>
 ## Yazılım dilleri
 
 <div align="center">
@@ -22,7 +14,16 @@
     <img alt="css3" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
 </div>
 
-## 📈 Github Stats
+## Destek
+
+<div align="center">
+    <a href="https://discord.com/users/717376815848620072" target="_blank"><img src="https://shields.io/badge/FearlesSs-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://github.com/fearlessst" target="_blank"><img src="https://shields.io/badge/FearlesSs-111111.svg?&style=for-the-badge&logo=github"></a>
+    <a href="https://discord.gg/fearless" target="_blank"><img src="https://shields.io/badge/Discord Server-111111.svg?&style=for-the-badge"></a>
+</div>
+
+
+## Github Stats
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=fearlessst&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
