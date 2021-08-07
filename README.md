@@ -7,17 +7,15 @@ Hi my name is, Alper. I'm 16 years old. I started software development 1 year ag
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/350976460313329665" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/350976460313329665"></a>
+    <a href="https://discord.com/users/717376815848620072" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/717376815848620072"></a>
 </div>
 
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/350976460313329665" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a href="https://github.com/thearkxd" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://www.npmjs.com/~theark" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=npm"></a>
-    <a href="https://discord.gg/UEPcFtytcc" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
-    <a href="https://theark.tk" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a>
+    <a href="https://discord.com/users/717376815848620072" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://github.com/fearlessst" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=github"></a>
+    <a href="https://discord.gg/fearless" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
 </div>
 
 ## 💻 Technologies I Use
