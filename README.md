@@ -1,6 +1,4 @@
-# fearlesssthe
-
-Hello My FearlesSs THE
+# Hi there , I'm Ozi <img src="https://komarev.com/ghpvc/?username=Jaylen-ozi&color=00ff54"/>
 
 
 <div align="center">
