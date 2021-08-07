@@ -1,4 +1,4 @@
-# Hi there , I'm FearlesSs <img src="https://komarev.com/ghpvc/?username=fearlessst&color=00ff54"/>
+# Hi there , I'm FearlesSs 
 
 
 <div align="center">
