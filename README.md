@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <a href="https://discord.com/users/717376815848620072" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/717376815848620072"></a>
+    <a href="https://discord.com/users/909769070239436841" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/909769070239436841"></a>
 </div>
 
 ## Yazılım dilleri
@@ -18,7 +18,7 @@
 ## Sociel Media
 
 <div align="center">
-    <a href="https://discord.com/users/717376815848620072" target="_blank"><img src="https://shields.io/badge/FearlesSs-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://discord.com/users/909769070239436841" target="_blank"><img src="https://shields.io/badge/FearlesSs-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a href="https://github.com/fearlessst" target="_blank"><img src="https://shields.io/badge/FearlesSs-111111.svg?&style=for-the-badge&logo=github"></a>
     <a href="https://discord.gg/fearless" target="_blank"><img src="https://shields.io/badge/Discord Server-111111.svg?&style=for-the-badge"></a>
     <a href="https://www.instagram.com/fearlesssthe/" target="_blank"><img src="https://shields.io/badge/İnstagram-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
